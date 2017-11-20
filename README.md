@@ -10,10 +10,6 @@ kubernetes cluster build deps images
     |-> v1.6.1
 ```
 
-# Docker Hup:
-
-https://hub.docker.com/r/k8scn/
-
 # Images list:
 
 * dnsmasq-metrics-amd64
